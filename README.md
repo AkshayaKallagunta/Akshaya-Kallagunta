@@ -38,3 +38,23 @@ As part of my Data Analytics Internship at Swynex Technologies, I completed Task
 ->Median wine spending cost was 449.
 ### Conclusion
 This internship task helped me to gain practical experience in Exploratory Data Analysis.
+##**Task 3: Customer Wine Spending Analysis** 
+## Key Performance Indicators(KPIS)
+->Total Customers
+->Average Wine Recency
+->Average Wine Spending
+## Dashboard Visualizations
+->Average Wine Spending by Wine Category
+->Average Income by Education
+->Average Wine Spending by Marital Status
+->interactive Slicers by Wine Category and Marital Status
+## Key Insights
+->The high wine category has the highest wine spending among the three wine categories.
+->Average income varies across education level.
+->Average wine Spending across marital status.
+->The dashboard allows users to explore customer data interactively by using slicers.
+## learning Outcomes
+->Learned to create KPI cards in Power BI.
+->Practiced building bar charts.
+->Leraned to use slicers interactively.
+
