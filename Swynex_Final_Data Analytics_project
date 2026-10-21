@@ -1,1 +1,63 @@
+SWYNEX – Final Data Analytics Project
+Customer Wine Spending Analysis
+1. Project Overview
+The objective of this project is to analyze customer data to understand customer behavior, wine spending patterns, and the relationship between customer characteristics and spending. This project was completed as part of my Data Analytics Internship at Swynex Technologies.
+I used Microsoft Excel for data cleaning and Microsoft Power BI for data analysis and dashboard development. The project helped me practice data cleaning, exploratory data analysis, data visualization, and business insight generation.
+2. Dataset Information
+The project uses a marketing dataset containing customer-related information.
+•	Total records: 2,240 customers
+•	Dataset type: Customer marketing data
+•	Tools used: Microsoft Excel and Power BI
+•	Important columns: ID, Income, Education, Marital_Status, Year_birth, Kidhome, Teenhome, Recency, Mnt wines, and Wine_Category
+The dataset contains information about customer demographics, household composition, purchasing behavior, and wine spending.
+3. Data Cleaning Process
+I cleaned and prepared the dataset before performing the analysis.
+The main cleaning steps were:
+1.	Checked the dataset for missing values.
+2.	Identified incorrect data types and checked whether columns had appropriate formats.
+3.	Identified and removed duplicate records where necessary.
+4.	Checked categorical columns for inconsistent values, especially marital status and education.
+5.	Reviewed the wine category values to ensure they were consistent.
+6.	Verified the cleaned dataset before using it for analysis.
+These steps helped improve data quality and prepare the dataset for reliable analysis.
+4. Data Analysis
+I performed exploratory data analysis to understand the dataset and identify useful patterns.
+The analysis included:
+•	Calculating the total number of customers.
+•	Calculating average customer recency.
+•	Calculating average wine spending.
+•	Comparing average wine spending across wine categories.
+•	Comparing average income across education levels.
+•	Comparing average wine spending across marital status groups.
+•	Using charts and summary cards to make the results easier to understand.
+I used Power BI visuals to present the results in a clear and interactive format.
+5. Dashboard Description
+I developed a Power BI dashboard titled Customer Wine Spending Analysis.
+The dashboard includes:
+•	Total Customers: A card displaying 2,240 customer records.
+•	Average Customer Recency: A card displaying an average recency of 49.50.
+•	Average Wine Spending: A card displaying an average value of 506.81 for the Mnt wines column.
+•	Wine Category Chart: A column chart comparing average wine spending across High, Medium, and Low wine categories.
+•	Education Chart: A bar chart comparing average income across education levels.
+•	Marital Status Chart: A bar chart comparing average wine spending across marital status groups.
+•	Slicers: Wine Category and Marital_Status slicers that allow users to filter the dashboard.
+The dashboard provides a visual summary of customer data and allows users to explore differences between customer groups.
+6. Key Business Insights
+1.	Customer records: The dataset contains 2,240 customer records, providing a useful basis for analyzing customer behavior.
+2.	Wine category comparison: The High category has the highest average wine spending, followed by Medium and Low. This indicates differences in spending across the defined wine categories.
+3.	Income by education: The dashboard shows differences in average income across education levels. The Master category has the highest average income among the displayed groups.
+4.	Wine spending by marital status: The Single category has the highest average wine spending among the displayed marital status groups, followed by Widow and customers with blank marital status values.
+5.	Interactive analysis: The dashboard slicers make it possible to filter customer data by wine category and marital status, helping users explore customer segments.
+These findings describe patterns in the available dataset. They do not necessarily establish that education or marital status causes differences in spending.
+7. Conclusion
+This project provided practical experience in the data analytics workflow, from data cleaning to exploratory analysis and dashboard development. Using Microsoft Excel and Power BI, I organized customer data, compared important measures, created visualizations, and identified useful business insights.
+The project improved my understanding of data preparation, analytical thinking, visualization, and dashboard design. In the future, this analysis could be extended by examining additional customer attributes, comparing other product spending categories, and developing more detailed customer segmentation.
+8. Skills Learned
+•	Microsoft Excel
+•	Data Cleaning
+•	Exploratory Data Analysis (EDA)
+•	Microsoft Power BI
+•	Data Visualization
+•	Dashboard Development
+•	Business Insight Generation
 
